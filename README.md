@@ -8,3 +8,4 @@ Our goal with this project is to build a comprehensive collection of excellent r
 
 | Title | Link | Description | Public Day | Note | Summary | Code |
 | ----- | ---- | ----------- | ---------- | ---- | ------- | ---- |
+| Large Language Model based Multi-Agents: A Survey of Progress and Challenges | [Link online](https://arxiv.org/pdf/2402.01680) | Paper synthesizes the methods and gives us an overview of MultiAgents with LLM-based | 19/03/2024 | [Survey](./Note/SurveyLLMsbasedMultiAgents/Survey.pdf) | | [LLM_MultiAgents_Survey_Papers](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) |
